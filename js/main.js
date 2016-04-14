@@ -1,1 +1,3 @@
-// console.log("init");
+(function(){
+	console.log("dasdas");
+})();
