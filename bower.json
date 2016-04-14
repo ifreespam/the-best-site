@@ -1,0 +1,20 @@
+{
+  "name": "the-best-site",
+  "homepage": "https://github.com/mrifree/the-best-site",
+  "authors": [
+    "Igor Levchenko <ifree92@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
